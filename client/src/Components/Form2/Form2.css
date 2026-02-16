@@ -1,0 +1,13 @@
+form {
+    margin: 20px 0 0;
+}
+
+form::before {
+    content: '';
+    position: absolute;
+    left: 0;
+    top: 0;
+    width: inherit;
+    height: 2px;
+    background-color: black;
+}

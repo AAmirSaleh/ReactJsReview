@@ -1,0 +1,8 @@
+h3 {
+    display: inline-block;
+}
+
+.greetingType {
+    font-size: .8em;
+    background-color: yellow;
+}
