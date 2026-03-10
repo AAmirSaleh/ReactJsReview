@@ -16,10 +16,10 @@ import { RefComp } from './Components/RefComp/RefComp'
 function App() {
   const [userData, setUserData] = useState({userName:"namee", surName:"Mr", firstName:"", lastName:"", isModalOpen:false })
   const [counter, setCounter] = useState(0)
-const name:string = "Hamed Morsal"
-const colorGreen = {
-  color: "green"
-}
+  const name:string = "Hamed Morsal"
+  const colorGreen = {
+    color: "green"
+  }
 
 const isStyle1 = true;
 
